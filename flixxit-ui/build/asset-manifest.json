@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.032bc7e9.css",
+    "main.js": "/static/js/main.48f1de3a.js",
+    "static/media/Avengers_ Age_of_Ultron-Trailer.mp4": "/static/media/Avengers_ Age_of_Ultron-Trailer.c447f10eab837a735cc9.mp4",
+    "static/media/OppenheimerTrailer.mp4": "/static/media/OppenheimerTrailer.e8a5e449e4f3335e3b03.mp4",
+    "static/media/avengers-endgame.jpg.webp": "/static/media/avengers-endgame.jpg.bf85bfb8c7bf61136a52.webp",
+    "static/media/Sign in.webp": "/static/media/Sign in.d4752c5355fe3b81c72e.webp",
+    "static/media/Flixxit-logos_transparent.png": "/static/media/Flixxit-logos_transparent.feee81b2da6fe7fc92a7.png",
+    "index.html": "/index.html",
+    "main.032bc7e9.css.map": "/static/css/main.032bc7e9.css.map",
+    "main.48f1de3a.js.map": "/static/js/main.48f1de3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032bc7e9.css",
+    "static/js/main.48f1de3a.js"
+  ]
+}
