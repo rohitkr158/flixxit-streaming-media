@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "flixxit-ui": "npm start  --prefix ./flixxit-ui",
+    "dev": "concurrently \"npm start\" \"npm run flixxit-ui\""
   },
   "keywords": [],
   "author": "",
